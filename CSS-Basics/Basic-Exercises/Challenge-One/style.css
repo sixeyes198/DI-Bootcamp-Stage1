@@ -1,0 +1,17 @@
+
+*{
+    background-color: rgb(99, 198, 255);
+}
+h1{
+    text-align: center;
+}
+ul{
+    text-align: center;
+}
+li{
+    list-style-type: none;
+}
+li::first-letter{
+    font-size: 25px;
+}
+

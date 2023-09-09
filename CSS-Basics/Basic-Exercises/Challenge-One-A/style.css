@@ -1,0 +1,40 @@
+*{
+    background-color: rgb(253, 212, 163);
+}
+h1{
+    border: dashed 4px;
+    margin-top: -4.800px;
+    text-align: center;
+    font-size: 40px;
+    border-left-style: none;
+    border-right-style: none;
+    background-color: beige;
+}
+p{
+    text-align: center;
+    background-color: beige;
+}
+#wrap{
+    border: dashed 5px;
+    background-color: beige;
+   
+}
+li{
+    text-align: center;
+    font-size: larger;
+    background-color: beige;
+}
+ul{
+    list-style-type: none;
+    background-color: beige;
+}
+li::first-letter{
+    font-size: 25px;
+}
+.copyright{
+    text-align: center;
+    background-color: beige;
+}
+a{
+    background-color: beige;
+}
