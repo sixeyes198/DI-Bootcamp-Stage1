@@ -1,0 +1,13 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr); /* 6 columns with equal width */
+    grid-template-rows: repeat(3, 1fr);    /* 3 rows with equal height */
+    grid-gap: 10px; /* Optional gap between grid items */
+}
+
+/* Style the grid items */
+.grid-item {
+    border: 1px solid #000;
+    padding: 20px;
+    text-align: center;
+}
