@@ -1,0 +1,11 @@
+*{
+    background-color: rgb(106, 106, 189);
+}
+#content{
+    text-align: center;
+    float: right;
+    background-color: rgb(163, 163, 255);
+}
+#nav{
+    float: left;
+}
